@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>answerdNumber</key>
+	<integer>0</integer>
+	<key>dtReg</key>
+	<string>2016-07-15 17:30:36</string>
+	<key>examedNumber</key>
+	<integer>4</integer>
+	<key>isBegin</key>
+	<integer>1</integer>
+	<key>nId</key>
+	<integer>5</integer>
+	<key>nPass</key>
+	<integer>14</integer>
+	<key>nTimer</key>
+	<integer>100</integer>
+	<key>nTopicsTotal</key>
+	<integer>10</integer>
+	<key>nTotal</key>
+	<integer>20</integer>
+	<key>vcExamGroupId</key>
+	<string>2,3,4,7,</string>
+	<key>vcExamGroupName</key>
+	<string>公司,第一,第二,第三,</string>
+	<key>vcRegister</key>
+	<string>admin</string>
+	<key>vcTitle</key>
+	<string>2016年工作知识竞赛题</string>
+</dict>
+</plist>
